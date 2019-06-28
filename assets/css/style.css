@@ -12,10 +12,9 @@ section
 }
 video
 {
-    padding-top: 30px;
+    margin: 0 0 0 40px;
     object-fit: cover;
     text-align: center;
-    margin: 0 0 0 10em;
     display: block;
 }
 h1
