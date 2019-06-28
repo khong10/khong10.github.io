@@ -13,6 +13,9 @@ section
 video
 {
     object-fit: cover;
+    text-align: center;
+    margin: 0 auto;
+    display: block;
 }
 h1
 {
@@ -24,9 +27,9 @@ h1
     width: 100%;
     text-align: center;
     color: #ddd;
-    font-size: 8em;
+    font-size: 7em;
     font-family: sans-serif;
-    letter-spacing: 0.2em;
+    letter-spacing: 0.1em;
 }
 h1 span
 {
