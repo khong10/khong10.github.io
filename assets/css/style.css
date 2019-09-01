@@ -12,7 +12,6 @@ section
 }
 video
 {
-    margin: 1em 0 0 6em;
     object-fit: cover;
     text-align: center;
     display: block;
